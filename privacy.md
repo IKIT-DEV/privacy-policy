@@ -30,4 +30,4 @@ The app does not collect personal data from children or adults. If you believe a
 
 7. Contact
 
-For privacy questions: service@ikit.dev
+For privacy questions: info@ikit.dev
